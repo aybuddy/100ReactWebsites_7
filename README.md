@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+# 100 React Websites
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This challenge is similar to the 100 Days of Code challenge but will focus on creating and developing 100 different React websites/ web applications.
 
-## Available Scripts
+The first xx amount of websites will be from tutorials found across YouTube, Udemy, and other various programming channels and mediums. Once exhauasting the tutorial route, the developer should start building web apps from scratch.
 
-In the project directory, you can run:
+The goal is to understand React better from a foundational perspective and see how it can be implemented with other various technologies. It will NOT solely focus on the MERN stack but with encompass all other technologies to see how React is being used.
 
-### `yarn start`
+The idea is that after xx amount of websites, the developer no longer needs tutorials and has safely escaped from Tutorial Hell. Once the developer has comfort in building apps from the scratch, the developer should move onto other areas of development whether it's the backend, design, testing, containerization, microservices, etc. There is no specific route for the developer to follow. Follow whichever path that suits you best.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Update on this challenge:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* It does not have to be 100 websites/apps per day. Some larger full stack apps will take more than 1 day to complete.
+* However, the developer should maintain daily coding practices.
+* Shorter component driven tutorials are acceptable as long as they are later implemented over to full websites and applications. Smaller tuts mean you should do a little bit more coding that day :)
+* It is not necessary to host all the smaller projects on heroku, netlify, etc. as there are limit restrictions. Host only what you feel is a significant project, which will most likely be apps as you get closer to the 100 mark.
+* Remember, incremental progresss everyday is like compound interest in finance, a little bit adds up to a lot over time. We'll call it compound progress and this is a way to compound * There will be more updates as this challenge grows and progresses.
 
-### `yarn test`
+# 100 React Websites #7
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Source: Clever Programmer
 
-### `yarn build`
+source: https://www.youtube.com/watch?v=VqgTr-nd7Cg
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Todo App built with React and Firebase and Material UI for styling and UI.
